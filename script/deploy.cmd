@@ -1,1 +1,1 @@
-bcecmd --conf-path ./bceconf/ bos cp ./public/ bos:/zy-blog-v2 -r
+ossutil64 cp -r -f public/ oss://zy-blog-v2

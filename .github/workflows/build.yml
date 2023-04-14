@@ -22,5 +22,4 @@ jobs:
           cache: "npm"
       - run: npm i
       - run: npm run build
-      - run: pwd
-      - run: ./bin/updater cp -r -f public/ oss://zy-blog-v2 -e ${{ secrets.ENDPOINT }} -i ${{ secrets.AK }} -k ${{ secrets.SK }}
+      - run: ./bin/uploader cp -r -f ./public/ oss://zy-blog-v2 -e ${{ secrets.ENDPOINT }} -i ${{ secrets.AK }} -k ${{ secrets.SK }}

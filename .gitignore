@@ -8,5 +8,4 @@ public/
 _multiconfig.yml
 .idea
 yarn.lock
-package-lock.json
 ossutil_output

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /posts/
+Allow: /post/
+Allow: /resources/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+
+Sitemap: https://ziying.site/sitemap.xml
+Sitemap: https://ziying.site/baidusitemap.xml
+Sitemap: https://blog.ziying.site/sitemap.xml
+Sitemap: https://blog.ziying.site/baidusitemap.xml

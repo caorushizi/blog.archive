@@ -163,3 +163,9 @@ waline:
   # comment per page
   # pageSize: 10
   dark: auto
+
+# SiteMap
+sitemap: 
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml

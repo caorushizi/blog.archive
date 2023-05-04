@@ -165,7 +165,7 @@ waline:
   dark: auto
 
 # SiteMap
-sitemap: 
+sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml

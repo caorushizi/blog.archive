@@ -36,7 +36,7 @@ dependencies:
     specifier: ^6.0.0
     version: 6.2.0
   hexo-renderer-stylus:
-    specifier: ^3.0.0
+    specifier: ^3.0.1
     version: 3.0.1
   hexo-server:
     specifier: ^3.0.0
